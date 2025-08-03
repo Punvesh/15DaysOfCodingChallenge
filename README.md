@@ -1,8 +1,15 @@
+
 # 15DaysOfCodingChallenge
-## Day1 of coding challenge 
-1-two-sum				  
-53-maximum-subarray
-26-remove-duplicates-from-sorted-array
+
+## Day 1 of coding challenge 
+- two-sum
+- maximum-subarray  
+- remove-duplicates-from-sorted-array
+
+## Day 2 of coding challenge
+- best-time-to-buy-and-sell-stock
+- valid-palindrome
+- product-of-array-except-self
 
 
 <!---LeetCode Topics Start-->
