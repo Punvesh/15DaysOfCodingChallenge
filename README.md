@@ -11,6 +11,7 @@ Day1 of coding challenge
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Punvesh/15DaysOfCodingChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0238-product-of-array-except-self](https://github.com/Punvesh/15DaysOfCodingChallenge/tree/master/0238-product-of-array-except-self) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -23,4 +24,8 @@ Day1 of coding challenge
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Punvesh/15DaysOfCodingChallenge/tree/master/0125-valid-palindrome) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/Punvesh/15DaysOfCodingChallenge/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
