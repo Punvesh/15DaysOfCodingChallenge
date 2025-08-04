@@ -10,7 +10,10 @@
 - best-time-to-buy-and-sell-stock
 - valid-palindrome
 - product-of-array-except-self
-
+## Day 3 of coding challenge
+- valid-anagram
+- find-the-index-of-the-first-occurrence-in-a-string
+- group-anagrams
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
