@@ -3,9 +3,6 @@ class Solution {
         // Quick check: if lengths differ, can't be anagrams.
         if (s.length() != t.length())
             return false;
-        // Convert to lowercase to avoid case mismatches.
-        s = s.toLowerCase();
-        t = t.toLowerCase();
         // Change strings to char arrays for sorting and comparison.
         char[] sarray = s.toCharArray();
         char[] tarray = t.toCharArray();
