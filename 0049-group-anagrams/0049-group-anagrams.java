@@ -7,6 +7,7 @@ class Solution {
             // for eat e -> count[101-97] -> count[4]++
             //         a -> count[97-97] -> count[0]++
             //         t -> count[116-97] -> count[19]++
+            // count[]++ because when you count 'e' from 'a' so that count +1. 
             int[] count = new int[26];
             for (char c : str.toCharArray()) {
                 count[c - 'a']++;
