@@ -23,6 +23,7 @@
 | [0049-group-anagrams](https://github.com/Punvesh/15DaysOfCodingChallenge/tree/master/0049-group-anagrams) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Punvesh/15DaysOfCodingChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0238-product-of-array-except-self](https://github.com/Punvesh/15DaysOfCodingChallenge/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/Punvesh/15DaysOfCodingChallenge/tree/master/0560-subarray-sum-equals-k) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -47,11 +48,13 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Punvesh/15DaysOfCodingChallenge/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/Punvesh/15DaysOfCodingChallenge/tree/master/0560-subarray-sum-equals-k) |
 ## Hash Table
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Punvesh/15DaysOfCodingChallenge/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Punvesh/15DaysOfCodingChallenge/tree/master/0242-valid-anagram) |
+| [0560-subarray-sum-equals-k](https://github.com/Punvesh/15DaysOfCodingChallenge/tree/master/0560-subarray-sum-equals-k) |
 ## Sorting
 |  |
 | ------- |
