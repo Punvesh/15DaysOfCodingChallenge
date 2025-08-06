@@ -20,6 +20,7 @@
 ## Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Punvesh/15DaysOfCodingChallenge/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Punvesh/15DaysOfCodingChallenge/tree/master/0049-group-anagrams) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Punvesh/15DaysOfCodingChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0238-product-of-array-except-self](https://github.com/Punvesh/15DaysOfCodingChallenge/tree/master/0238-product-of-array-except-self) |
@@ -29,12 +30,14 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Punvesh/15DaysOfCodingChallenge/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/Punvesh/15DaysOfCodingChallenge/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Punvesh/15DaysOfCodingChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Two Pointers
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Punvesh/15DaysOfCodingChallenge/tree/master/0005-longest-palindromic-substring) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Punvesh/15DaysOfCodingChallenge/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/Punvesh/15DaysOfCodingChallenge/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/Punvesh/15DaysOfCodingChallenge/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Punvesh/15DaysOfCodingChallenge/tree/master/0141-linked-list-cycle) |
 ## String
@@ -71,6 +74,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Punvesh/15DaysOfCodingChallenge/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Punvesh/15DaysOfCodingChallenge/tree/master/0042-trapping-rain-water) |
 ## Linked List
 |  |
 | ------- |
@@ -79,4 +83,8 @@
 |  |
 | ------- |
 | [0792-binary-search](https://github.com/Punvesh/15DaysOfCodingChallenge/tree/master/0792-binary-search) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Punvesh/15DaysOfCodingChallenge/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
