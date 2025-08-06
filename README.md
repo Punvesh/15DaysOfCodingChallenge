@@ -24,6 +24,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Punvesh/15DaysOfCodingChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0238-product-of-array-except-self](https://github.com/Punvesh/15DaysOfCodingChallenge/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/Punvesh/15DaysOfCodingChallenge/tree/master/0560-subarray-sum-equals-k) |
+| [0792-binary-search](https://github.com/Punvesh/15DaysOfCodingChallenge/tree/master/0792-binary-search) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -74,4 +75,8 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Punvesh/15DaysOfCodingChallenge/tree/master/0141-linked-list-cycle) |
+## Binary Search
+|  |
+| ------- |
+| [0792-binary-search](https://github.com/Punvesh/15DaysOfCodingChallenge/tree/master/0792-binary-search) |
 <!---LeetCode Topics End-->
