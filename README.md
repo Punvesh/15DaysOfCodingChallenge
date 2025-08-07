@@ -20,6 +20,7 @@
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Punvesh/15DaysOfCodingChallenge/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/Punvesh/15DaysOfCodingChallenge/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Punvesh/15DaysOfCodingChallenge/tree/master/0049-group-anagrams) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Punvesh/15DaysOfCodingChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -82,6 +83,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Punvesh/15DaysOfCodingChallenge/tree/master/0035-search-insert-position) |
 | [0792-binary-search](https://github.com/Punvesh/15DaysOfCodingChallenge/tree/master/0792-binary-search) |
 ## Monotonic Stack
 |  |
