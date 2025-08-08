@@ -26,6 +26,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Punvesh/15DaysOfCodingChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Punvesh/15DaysOfCodingChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0238-product-of-array-except-self](https://github.com/Punvesh/15DaysOfCodingChallenge/tree/master/0238-product-of-array-except-self) |
+| [0456-132-pattern](https://github.com/Punvesh/15DaysOfCodingChallenge/tree/master/0456-132-pattern) |
 | [0560-subarray-sum-equals-k](https://github.com/Punvesh/15DaysOfCodingChallenge/tree/master/0560-subarray-sum-equals-k) |
 | [0792-binary-search](https://github.com/Punvesh/15DaysOfCodingChallenge/tree/master/0792-binary-search) |
 ## Dynamic Programming
@@ -80,6 +81,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Punvesh/15DaysOfCodingChallenge/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Punvesh/15DaysOfCodingChallenge/tree/master/0042-trapping-rain-water) |
+| [0456-132-pattern](https://github.com/Punvesh/15DaysOfCodingChallenge/tree/master/0456-132-pattern) |
 ## Linked List
 |  |
 | ------- |
@@ -89,13 +91,19 @@
 | ------- |
 | [0035-search-insert-position](https://github.com/Punvesh/15DaysOfCodingChallenge/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Punvesh/15DaysOfCodingChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0456-132-pattern](https://github.com/Punvesh/15DaysOfCodingChallenge/tree/master/0456-132-pattern) |
 | [0792-binary-search](https://github.com/Punvesh/15DaysOfCodingChallenge/tree/master/0792-binary-search) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Punvesh/15DaysOfCodingChallenge/tree/master/0042-trapping-rain-water) |
+| [0456-132-pattern](https://github.com/Punvesh/15DaysOfCodingChallenge/tree/master/0456-132-pattern) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Punvesh/15DaysOfCodingChallenge/tree/master/0003-longest-substring-without-repeating-characters) |
+## Ordered Set
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/Punvesh/15DaysOfCodingChallenge/tree/master/0456-132-pattern) |
 <!---LeetCode Topics End-->
