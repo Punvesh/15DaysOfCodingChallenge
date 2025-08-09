@@ -117,6 +117,7 @@
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Punvesh/15DaysOfCodingChallenge/tree/master/0096-unique-binary-search-trees) |
+| [0543-diameter-of-binary-tree](https://github.com/Punvesh/15DaysOfCodingChallenge/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -125,6 +126,7 @@
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Punvesh/15DaysOfCodingChallenge/tree/master/0096-unique-binary-search-trees) |
+| [0543-diameter-of-binary-tree](https://github.com/Punvesh/15DaysOfCodingChallenge/tree/master/0543-diameter-of-binary-tree) |
 ## Queue
 |  |
 | ------- |
@@ -137,4 +139,8 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Punvesh/15DaysOfCodingChallenge/tree/master/0239-sliding-window-maximum) |
+## Depth-First Search
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/Punvesh/15DaysOfCodingChallenge/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
