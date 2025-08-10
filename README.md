@@ -61,6 +61,7 @@
 | [0125-valid-palindrome](https://github.com/Punvesh/15DaysOfCodingChallenge/tree/master/0125-valid-palindrome) |
 | [0227-basic-calculator-ii](https://github.com/Punvesh/15DaysOfCodingChallenge/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/Punvesh/15DaysOfCodingChallenge/tree/master/0242-valid-anagram) |
+| [0394-decode-string](https://github.com/Punvesh/15DaysOfCodingChallenge/tree/master/0394-decode-string) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -90,6 +91,7 @@
 | [0020-valid-parentheses](https://github.com/Punvesh/15DaysOfCodingChallenge/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Punvesh/15DaysOfCodingChallenge/tree/master/0042-trapping-rain-water) |
 | [0227-basic-calculator-ii](https://github.com/Punvesh/15DaysOfCodingChallenge/tree/master/0227-basic-calculator-ii) |
+| [0394-decode-string](https://github.com/Punvesh/15DaysOfCodingChallenge/tree/master/0394-decode-string) |
 | [0456-132-pattern](https://github.com/Punvesh/15DaysOfCodingChallenge/tree/master/0456-132-pattern) |
 ## Linked List
 |  |
@@ -160,4 +162,8 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Punvesh/15DaysOfCodingChallenge/tree/master/0011-container-with-most-water) |
+## Recursion
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/Punvesh/15DaysOfCodingChallenge/tree/master/0394-decode-string) |
 <!---LeetCode Topics End-->
