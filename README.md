@@ -59,6 +59,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Punvesh/15DaysOfCodingChallenge/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/Punvesh/15DaysOfCodingChallenge/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Punvesh/15DaysOfCodingChallenge/tree/master/0125-valid-palindrome) |
+| [0227-basic-calculator-ii](https://github.com/Punvesh/15DaysOfCodingChallenge/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/Punvesh/15DaysOfCodingChallenge/tree/master/0242-valid-anagram) |
 ## Prefix Sum
 |  |
@@ -88,6 +89,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Punvesh/15DaysOfCodingChallenge/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Punvesh/15DaysOfCodingChallenge/tree/master/0042-trapping-rain-water) |
+| [0227-basic-calculator-ii](https://github.com/Punvesh/15DaysOfCodingChallenge/tree/master/0227-basic-calculator-ii) |
 | [0456-132-pattern](https://github.com/Punvesh/15DaysOfCodingChallenge/tree/master/0456-132-pattern) |
 ## Linked List
 |  |
@@ -119,6 +121,7 @@
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Punvesh/15DaysOfCodingChallenge/tree/master/0096-unique-binary-search-trees) |
 | [0202-happy-number](https://github.com/Punvesh/15DaysOfCodingChallenge/tree/master/0202-happy-number) |
+| [0227-basic-calculator-ii](https://github.com/Punvesh/15DaysOfCodingChallenge/tree/master/0227-basic-calculator-ii) |
 ## Tree
 |  |
 | ------- |
