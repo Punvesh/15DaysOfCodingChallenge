@@ -130,6 +130,7 @@
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Punvesh/15DaysOfCodingChallenge/tree/master/0096-unique-binary-search-trees) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Punvesh/15DaysOfCodingChallenge/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Punvesh/15DaysOfCodingChallenge/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Search Tree
 |  |
@@ -139,6 +140,7 @@
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Punvesh/15DaysOfCodingChallenge/tree/master/0096-unique-binary-search-trees) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Punvesh/15DaysOfCodingChallenge/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Punvesh/15DaysOfCodingChallenge/tree/master/0543-diameter-of-binary-tree) |
 ## Queue
 |  |
@@ -155,6 +157,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Punvesh/15DaysOfCodingChallenge/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Punvesh/15DaysOfCodingChallenge/tree/master/0543-diameter-of-binary-tree) |
 ## Backtracking
 |  |
@@ -173,4 +176,8 @@
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/Punvesh/15DaysOfCodingChallenge/tree/master/1013-fibonacci-number) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Punvesh/15DaysOfCodingChallenge/tree/master/0111-minimum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
