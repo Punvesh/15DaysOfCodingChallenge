@@ -39,6 +39,7 @@
 | [0042-trapping-rain-water](https://github.com/Punvesh/15DaysOfCodingChallenge/tree/master/0042-trapping-rain-water) |
 | [0096-unique-binary-search-trees](https://github.com/Punvesh/15DaysOfCodingChallenge/tree/master/0096-unique-binary-search-trees) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Punvesh/15DaysOfCodingChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1013-fibonacci-number](https://github.com/Punvesh/15DaysOfCodingChallenge/tree/master/1013-fibonacci-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -124,6 +125,7 @@
 | [0096-unique-binary-search-trees](https://github.com/Punvesh/15DaysOfCodingChallenge/tree/master/0096-unique-binary-search-trees) |
 | [0202-happy-number](https://github.com/Punvesh/15DaysOfCodingChallenge/tree/master/0202-happy-number) |
 | [0227-basic-calculator-ii](https://github.com/Punvesh/15DaysOfCodingChallenge/tree/master/0227-basic-calculator-ii) |
+| [1013-fibonacci-number](https://github.com/Punvesh/15DaysOfCodingChallenge/tree/master/1013-fibonacci-number) |
 ## Tree
 |  |
 | ------- |
@@ -166,4 +168,9 @@
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/Punvesh/15DaysOfCodingChallenge/tree/master/0394-decode-string) |
+| [1013-fibonacci-number](https://github.com/Punvesh/15DaysOfCodingChallenge/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Punvesh/15DaysOfCodingChallenge/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
