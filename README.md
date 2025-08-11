@@ -37,6 +37,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Punvesh/15DaysOfCodingChallenge/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Punvesh/15DaysOfCodingChallenge/tree/master/0042-trapping-rain-water) |
+| [0070-climbing-stairs](https://github.com/Punvesh/15DaysOfCodingChallenge/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/Punvesh/15DaysOfCodingChallenge/tree/master/0096-unique-binary-search-trees) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Punvesh/15DaysOfCodingChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1013-fibonacci-number](https://github.com/Punvesh/15DaysOfCodingChallenge/tree/master/1013-fibonacci-number) |
@@ -122,6 +123,7 @@
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Punvesh/15DaysOfCodingChallenge/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/Punvesh/15DaysOfCodingChallenge/tree/master/0096-unique-binary-search-trees) |
 | [0202-happy-number](https://github.com/Punvesh/15DaysOfCodingChallenge/tree/master/0202-happy-number) |
 | [0227-basic-calculator-ii](https://github.com/Punvesh/15DaysOfCodingChallenge/tree/master/0227-basic-calculator-ii) |
@@ -175,6 +177,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Punvesh/15DaysOfCodingChallenge/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Punvesh/15DaysOfCodingChallenge/tree/master/1013-fibonacci-number) |
 ## Breadth-First Search
 |  |
