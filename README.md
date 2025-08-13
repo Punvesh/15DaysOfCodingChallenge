@@ -54,6 +54,7 @@
 | [0042-trapping-rain-water](https://github.com/Punvesh/15DaysOfCodingChallenge/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/Punvesh/15DaysOfCodingChallenge/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Punvesh/15DaysOfCodingChallenge/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Punvesh/15DaysOfCodingChallenge/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Punvesh/15DaysOfCodingChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/Punvesh/15DaysOfCodingChallenge/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Punvesh/15DaysOfCodingChallenge/tree/master/0234-palindrome-linked-list) |
@@ -80,6 +81,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Punvesh/15DaysOfCodingChallenge/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Punvesh/15DaysOfCodingChallenge/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/Punvesh/15DaysOfCodingChallenge/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Punvesh/15DaysOfCodingChallenge/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/Punvesh/15DaysOfCodingChallenge/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/Punvesh/15DaysOfCodingChallenge/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/Punvesh/15DaysOfCodingChallenge/tree/master/0560-subarray-sum-equals-k) |
@@ -106,6 +108,7 @@
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Punvesh/15DaysOfCodingChallenge/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/Punvesh/15DaysOfCodingChallenge/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Punvesh/15DaysOfCodingChallenge/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Punvesh/15DaysOfCodingChallenge/tree/master/0234-palindrome-linked-list) |
 ## Binary Search
 |  |
