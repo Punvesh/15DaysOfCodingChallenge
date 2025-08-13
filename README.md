@@ -49,6 +49,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Punvesh/15DaysOfCodingChallenge/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Punvesh/15DaysOfCodingChallenge/tree/master/0011-container-with-most-water) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Punvesh/15DaysOfCodingChallenge/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Punvesh/15DaysOfCodingChallenge/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/Punvesh/15DaysOfCodingChallenge/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/Punvesh/15DaysOfCodingChallenge/tree/master/0125-valid-palindrome) |
@@ -101,6 +102,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Punvesh/15DaysOfCodingChallenge/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/Punvesh/15DaysOfCodingChallenge/tree/master/0141-linked-list-cycle) |
 ## Binary Search
 |  |
