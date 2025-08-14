@@ -33,6 +33,7 @@
 | [0322-coin-change](https://github.com/Punvesh/15DaysOfCodingChallenge/tree/master/0322-coin-change) |
 | [0456-132-pattern](https://github.com/Punvesh/15DaysOfCodingChallenge/tree/master/0456-132-pattern) |
 | [0560-subarray-sum-equals-k](https://github.com/Punvesh/15DaysOfCodingChallenge/tree/master/0560-subarray-sum-equals-k) |
+| [0735-asteroid-collision](https://github.com/Punvesh/15DaysOfCodingChallenge/tree/master/0735-asteroid-collision) |
 | [0792-binary-search](https://github.com/Punvesh/15DaysOfCodingChallenge/tree/master/0792-binary-search) |
 ## Dynamic Programming
 |  |
@@ -104,6 +105,7 @@
 | [0234-palindrome-linked-list](https://github.com/Punvesh/15DaysOfCodingChallenge/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/Punvesh/15DaysOfCodingChallenge/tree/master/0394-decode-string) |
 | [0456-132-pattern](https://github.com/Punvesh/15DaysOfCodingChallenge/tree/master/0456-132-pattern) |
+| [0735-asteroid-collision](https://github.com/Punvesh/15DaysOfCodingChallenge/tree/master/0735-asteroid-collision) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Punvesh/15DaysOfCodingChallenge/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 ## Linked List
 |  |
@@ -211,4 +213,8 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Punvesh/15DaysOfCodingChallenge/tree/master/0200-number-of-islands) |
+## Simulation
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/Punvesh/15DaysOfCodingChallenge/tree/master/0735-asteroid-collision) |
 <!---LeetCode Topics End-->
