@@ -72,6 +72,7 @@
 | [0242-valid-anagram](https://github.com/Punvesh/15DaysOfCodingChallenge/tree/master/0242-valid-anagram) |
 | [0394-decode-string](https://github.com/Punvesh/15DaysOfCodingChallenge/tree/master/0394-decode-string) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Punvesh/15DaysOfCodingChallenge/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
+| [1666-make-the-string-great](https://github.com/Punvesh/15DaysOfCodingChallenge/tree/master/1666-make-the-string-great) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -107,6 +108,7 @@
 | [0456-132-pattern](https://github.com/Punvesh/15DaysOfCodingChallenge/tree/master/0456-132-pattern) |
 | [0735-asteroid-collision](https://github.com/Punvesh/15DaysOfCodingChallenge/tree/master/0735-asteroid-collision) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Punvesh/15DaysOfCodingChallenge/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
+| [1666-make-the-string-great](https://github.com/Punvesh/15DaysOfCodingChallenge/tree/master/1666-make-the-string-great) |
 ## Linked List
 |  |
 | ------- |
