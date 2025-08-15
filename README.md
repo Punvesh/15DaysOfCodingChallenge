@@ -28,6 +28,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Punvesh/15DaysOfCodingChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Punvesh/15DaysOfCodingChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0200-number-of-islands](https://github.com/Punvesh/15DaysOfCodingChallenge/tree/master/0200-number-of-islands) |
+| [0204-count-primes](https://github.com/Punvesh/15DaysOfCodingChallenge/tree/master/0204-count-primes) |
 | [0238-product-of-array-except-self](https://github.com/Punvesh/15DaysOfCodingChallenge/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Punvesh/15DaysOfCodingChallenge/tree/master/0239-sliding-window-maximum) |
 | [0322-coin-change](https://github.com/Punvesh/15DaysOfCodingChallenge/tree/master/0322-coin-change) |
@@ -143,6 +144,7 @@
 | [0070-climbing-stairs](https://github.com/Punvesh/15DaysOfCodingChallenge/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/Punvesh/15DaysOfCodingChallenge/tree/master/0096-unique-binary-search-trees) |
 | [0202-happy-number](https://github.com/Punvesh/15DaysOfCodingChallenge/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/Punvesh/15DaysOfCodingChallenge/tree/master/0204-count-primes) |
 | [0227-basic-calculator-ii](https://github.com/Punvesh/15DaysOfCodingChallenge/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/Punvesh/15DaysOfCodingChallenge/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/Punvesh/15DaysOfCodingChallenge/tree/master/1013-fibonacci-number) |
@@ -226,4 +228,12 @@
 | ------- |
 | [0231-power-of-two](https://github.com/Punvesh/15DaysOfCodingChallenge/tree/master/0231-power-of-two) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Punvesh/15DaysOfCodingChallenge/tree/master/2323-minimum-bit-flips-to-convert-number) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Punvesh/15DaysOfCodingChallenge/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Punvesh/15DaysOfCodingChallenge/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
