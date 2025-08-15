@@ -144,6 +144,7 @@
 | [0096-unique-binary-search-trees](https://github.com/Punvesh/15DaysOfCodingChallenge/tree/master/0096-unique-binary-search-trees) |
 | [0202-happy-number](https://github.com/Punvesh/15DaysOfCodingChallenge/tree/master/0202-happy-number) |
 | [0227-basic-calculator-ii](https://github.com/Punvesh/15DaysOfCodingChallenge/tree/master/0227-basic-calculator-ii) |
+| [0231-power-of-two](https://github.com/Punvesh/15DaysOfCodingChallenge/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/Punvesh/15DaysOfCodingChallenge/tree/master/1013-fibonacci-number) |
 ## Tree
 |  |
@@ -193,6 +194,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Punvesh/15DaysOfCodingChallenge/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Punvesh/15DaysOfCodingChallenge/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/Punvesh/15DaysOfCodingChallenge/tree/master/0394-decode-string) |
 | [1013-fibonacci-number](https://github.com/Punvesh/15DaysOfCodingChallenge/tree/master/1013-fibonacci-number) |
@@ -219,4 +221,8 @@
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/Punvesh/15DaysOfCodingChallenge/tree/master/0735-asteroid-collision) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Punvesh/15DaysOfCodingChallenge/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
