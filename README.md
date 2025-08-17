@@ -77,6 +77,7 @@
 | [0394-decode-string](https://github.com/Punvesh/15DaysOfCodingChallenge/tree/master/0394-decode-string) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Punvesh/15DaysOfCodingChallenge/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1666-make-the-string-great](https://github.com/Punvesh/15DaysOfCodingChallenge/tree/master/1666-make-the-string-great) |
+| [2032-largest-odd-number-in-string](https://github.com/Punvesh/15DaysOfCodingChallenge/tree/master/2032-largest-odd-number-in-string) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -153,6 +154,7 @@
 | [0227-basic-calculator-ii](https://github.com/Punvesh/15DaysOfCodingChallenge/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/Punvesh/15DaysOfCodingChallenge/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/Punvesh/15DaysOfCodingChallenge/tree/master/1013-fibonacci-number) |
+| [2032-largest-odd-number-in-string](https://github.com/Punvesh/15DaysOfCodingChallenge/tree/master/2032-largest-odd-number-in-string) |
 ## Tree
 |  |
 | ------- |
@@ -200,6 +202,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Punvesh/15DaysOfCodingChallenge/tree/master/0011-container-with-most-water) |
 | [0455-assign-cookies](https://github.com/Punvesh/15DaysOfCodingChallenge/tree/master/0455-assign-cookies) |
+| [2032-largest-odd-number-in-string](https://github.com/Punvesh/15DaysOfCodingChallenge/tree/master/2032-largest-odd-number-in-string) |
 ## Recursion
 |  |
 | ------- |
